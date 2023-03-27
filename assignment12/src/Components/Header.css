@@ -1,0 +1,23 @@
+
+
+
+header{
+    
+    display: flex;
+    justify-content: flex-end;
+
+}
+nav{
+    display: flex;
+   
+   gap: 5rem;
+  
+  
+    
+}
+a{
+    text-decoration: none;
+    margin: 2rem;
+    color: antiquewhite;
+    font-family: 'Pacifico', cursive;
+}

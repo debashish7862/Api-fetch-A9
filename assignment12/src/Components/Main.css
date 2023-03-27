@@ -1,0 +1,88 @@
+
+.mainBody{
+    display: flex;
+
+}
+.left{
+    height: fit-content;
+
+}
+.left img{
+    height: 40rem;
+    width: 50rem;
+    margin-left: 4rem;
+
+  
+
+}
+.middle{
+    height: fit-content;
+    top: 18rem;
+    left: 35rem;
+    position: relative;
+  
+}
+.middle button{
+    width: 7rem;
+    height: 4rem;
+    border-radius: 2rem;
+    color: rgb(4, 4, 3);
+    background-color: rgb(236, 232, 224);
+    font-family: 'Pacifico', cursive;
+    border: none;
+    cursor: pointer;
+    
+
+}
+.middle button:hover{
+    background-color: rgb(6, 4, 2);
+    color: antiquewhite;
+
+}
+table{
+    width: 95%;
+    margin: 2rem auto;
+}
+thead{
+   background-color: black;
+    color: antiquewhite;
+    
+    height: 3rem;
+    
+}
+th{
+    padding: 1rem;
+}
+tr td{
+   
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+.right  {
+   size: auto;
+   
+   
+    
+
+}
+
+
+
+
+.right img{
+    height: 30rem;
+    margin-left: 40rem;
+   margin-top: 6rem;
+    
+}
